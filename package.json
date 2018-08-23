@@ -1,0 +1,28 @@
+{
+  "name": "promises-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bluebird": "^3.5.1",
+    "express": "^4.16.3",
+    "pg-promise": "^8.4.6",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TRamos5/promises-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TRamos5/promises-practice/issues"
+  },
+  "homepage": "https://github.com/TRamos5/promises-practice#readme"
+}
